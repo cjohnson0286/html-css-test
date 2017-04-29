@@ -23,8 +23,8 @@ h2 {
 
 
 }
-#contact-info
-#bio-image
+
+
 #main-bio {
 	float:left;
 
@@ -35,11 +35,13 @@ h2 {
 }
 #main-bio{
 	width: 70%;
+	float:left;
 }
 
 #contact-info{
 	width: 30%;
 	line-height: 150%;
+	float:left;
 }
 a {
 	color:#d21034;
